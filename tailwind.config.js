@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://demos.wrappixel.com/premium-admin-templates/react/flexy-react/main/static/media/welcome-bg-2x-svg.25338f53.svg')",
+            "url('https://img.freepik.com/free-photo/businessman-sitting-with-laptop-notebook-piggy-bank-funds-isolated-white-background_126523-3112.jpg?w=740&t=st=1715950064~exp=1715950664~hmac=740100c25b3c841f47a1d701e71e1538af6ff6d3aa733c7ee9d3f8b41a7575db')",
         },
       },
     },
